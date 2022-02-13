@@ -3,11 +3,8 @@
 
 This is the first file in the Git.
 
-## Ipsum below
+## Website Contents
 
-bfhuezvhjd biubdvisd buibevknbchvèt    fvygufb byugfrb ydsowlb
- hdcsd
-bdfbvh
+Here are the files in the website
 
-
-qhgezdvbku
+ 1. Index.html
